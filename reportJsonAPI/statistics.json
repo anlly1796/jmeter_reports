@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 111531,
+    "errorCount" : 6880,
+    "errorPct" : 6.1686883,
+    "meanResTime" : 77.17540414772557,
+    "medianResTime" : 73.0,
+    "minResTime" : 68.0,
+    "maxResTime" : 779.0,
+    "pct1ResTime" : 82.0,
+    "pct2ResTime" : 86.0,
+    "pct3ResTime" : 180.0,
+    "throughput" : 61.96097821135321,
+    "receivedKBytesPerSec" : 49.43124384121427,
+    "sentKBytesPerSec" : 32.11546727171781
+  },
+  "GET. api.openweathermap.org/data/2.5/weather" : {
+    "transaction" : "GET. api.openweathermap.org/data/2.5/weather",
+    "sampleCount" : 111531,
+    "errorCount" : 6880,
+    "errorPct" : 6.1686883,
+    "meanResTime" : 77.17540414772557,
+    "medianResTime" : 73.0,
+    "minResTime" : 68.0,
+    "maxResTime" : 779.0,
+    "pct1ResTime" : 82.0,
+    "pct2ResTime" : 86.0,
+    "pct3ResTime" : 180.0,
+    "throughput" : 61.96097821135321,
+    "receivedKBytesPerSec" : 49.43124384121427,
+    "sentKBytesPerSec" : 32.11546727171781
+  }
+}
